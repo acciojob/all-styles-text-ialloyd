@@ -1,14 +1,19 @@
 
 /* Your CSS Code here. */
-.heading{
+#heading{
 
-	background-color:purple;
-	left-border:5px solid green;
-	padding:10px;
 	font-size:20px;
-	color:white;
+	color:rgb(255, 255, 255);
+	
+	
+}
+.main{
+
+	background-color:rgb(128, 0, 128);
 	width:200px;
-	text-decoration:underline;
+	border-left-width:5px;
+	border-left-color:rgb(0, 128, 0);
+	padding:10px;
 	
 	
 }
