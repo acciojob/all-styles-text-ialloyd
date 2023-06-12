@@ -11,9 +11,7 @@
 
 	background-color:rgb(128, 0, 128);
 	width:200px;
-	border-left-width:5px;
-	border-left-color:rgb(0, 128, 0);
+	border-left:5px solid green;
 	padding:10px;
-	
-	
+		
 }
